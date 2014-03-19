@@ -7,7 +7,7 @@ import java.util.Map;
  * @author: Falcon
  * @date: 2014/3/19.
  */
-public class DefaultControler implements Controler {
+public class DefaultController implements Controler {
 
     private Map<String, RequestHandler> handlerMap = new HashMap<String, RequestHandler>();
 
