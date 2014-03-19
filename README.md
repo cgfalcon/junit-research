@@ -1,12 +1,7 @@
-# JUnit 4
-JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
+## JUnit-Research
 
-For more information, please visit:
-* [Wiki](https://github.com/junit-team/junit/wiki)
-* [Download and Install guide](https://github.com/junit-team/junit/wiki/Download-and-Install)
-* [Getting Started](https://github.com/junit-team/junit/wiki/Getting-started)
+### 关于JUnit-Research
 
-[![Latest Build Status](https://junit.ci.cloudbees.com/job/JUnit/badge/icon)](https://junit.ci.cloudbees.com/)
+这是一个个人学习JUnit的项目。
 
-[![Built on DEV@cloud](http://www.cloudbees.com/sites/default/files/Button-Built-on-CB-1.png)](http://www.cloudbees.com/foss/foss-dev.cb)
-
+项目中的一些例子来源于 JUnit in Action 2 Edition 一书。 主要是通过测试用例了解JUnit的代码接口以及如何深入使用

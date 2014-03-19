@@ -11,3 +11,8 @@ MaxCore.max
 out
 java.hprof.txt
 .gitattributes
+.cvsignore
+.settings
+.classpath
+.project
+build
